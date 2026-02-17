@@ -19,14 +19,14 @@
         <li>
           <button class="choose-insect-btn">
             <p>Fly</p>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcEGb909KgsrEuozkvRL3jupxNXzXQUVQqH5DpuWtBpv1PRwnaiMISp9LlyqtDCd_LFVDoZ022Tm_v4ymRANTLPjRJ0DbjE_MrOmuaDNc-&s=10" alt="fly">
+            <img src=" " alt="fly">
           </button>
         </li>
         <li>
           <button class="choose-insect-btn">
             <p>Mosquito</p>
             <img
-               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcEGb909KgsrEuozkvRL3jupxNXzXQUVQqH5DpuWtBpv1PRwnaiMISp9LlyqtDCd_LFVDoZ022Tm_v4ymRANTLPjRJ0DbjE_MrOmuaDNc-&s=10.png"
+               src=""
                alt="mosquito"
                />
           </button>
@@ -35,7 +35,7 @@
           <button class="choose-insect-btn">
             <p>Spider</p>
             <img
-               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcEGb909KgsrEuozkvRL3jupxNXzXQUVQqH5DpuWtBpv1PRwnaiMISp9LlyqtDCd_LFVDoZ022Tm_v4ymRANTLPjRJ0DbjE_MrOmuaDNc-&s=10"
+               src=""
                alt="spider"
                />
           </button>
@@ -44,7 +44,7 @@
           <button class="choose-insect-btn">
             <p>Roach</p>
             <img
-               src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcEGb909KgsrEuozkvRL3jupxNXzXQUVQqH5DpuWtBpv1PRwnaiMISp9LlyqtDCd_LFVDoZ022Tm_v4ymRANTLPjRJ0DbjE_MrOmuaDNc-&s=10"
+               src=""
                alt="roach"
                />
           </button>
